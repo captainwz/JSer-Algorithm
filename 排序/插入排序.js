@@ -1,11 +1,8 @@
 // 插入排序，稳定算法
 
-var arr = [12, 15, 9, 20, 10, 31, 24], i = 1, j= 0, tmp;
+var arr = [12, 15, 9, 20, 10, 31, 24, 100], i = 1, j= 0, tmp;
 
 for ( ; i < arr.length; i++) {
-    
-    if (arr[i] >= arr[i - 1]) 
-        continue;
 
     tmp = arr[i];
 
