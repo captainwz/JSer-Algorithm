@@ -6,7 +6,7 @@
 * 稳定性:稳定
 * 时间复杂度:![o(n^{2}))](http://latex.codecogs.com/gif.latex?o(n^{2}))
 
-###选择
+###选择排序
 * 稳定性:非稳定
 * 时间复杂度:![o(n^{2}))](http://latex.codecogs.com/gif.latex?o(n^{2}))
 
